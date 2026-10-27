@@ -1,0 +1,4 @@
+Agent Security Guard Demo
+
+This is a safe test file.
+Our security engine will control access to this file.
